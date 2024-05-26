@@ -10,6 +10,7 @@
     --paragraph-font-size: 1.9rem;
     --heading-font-weight: 600;
     --paragraph-font-weight: 400;
+    --max-width-100: 100%;
 }
 
 /* CSS VARIABLES */
@@ -38,7 +39,7 @@ body{
 
 /* UTILITY CLASSES */
 
-.footer_flex_container .social_media_container .social_icon::before{
+.social_icon::before{
     display: inline-block;
     font-style: normal;
     color: var(--light-color);
@@ -49,4 +50,4 @@ body{
     -webkit-font-smoothing: antialiased;
 }
 
-/* UTILITY CLASSSES */
+/* UTILITY CLASSES */

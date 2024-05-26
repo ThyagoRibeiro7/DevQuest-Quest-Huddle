@@ -4,13 +4,6 @@
     }
 }
 
-@media (max-width: 1168px){
-    
-    .hero_info_container p{
-        font-size: 1.7rem;
-    }
-}
-
 @media (max-width: 1024px){
 
     .header_container img{
@@ -42,15 +35,15 @@
     }
 
     .hero_flex_container .hero_info_container p{
+        font-size: 3.2rem;
         margin-top: 2.8rem;
         margin-bottom: 4.9rem;
-        font-size: 3.2rem;
     }
 
     .footer_flex_container{
+        justify-content: center;
         margin-bottom: 8.3rem;
         margin-top: 10.9rem;
-        justify-content: center;
     }
 
     .footer_flex_container .social_media_container{
