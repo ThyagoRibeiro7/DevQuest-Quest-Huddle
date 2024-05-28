@@ -33,21 +33,7 @@ body{
     background: url("../images/bg-desktop.svg") no-repeat center;
     background-size: cover;
     background-color: var(--main-bg-color);
+    height: 100vh;
 }
 
 /* RESET PROPERTIES */
-
-/* UTILITY CLASSES */
-
-.social_icon::before{
-    display: inline-block;
-    font-style: normal;
-    color: var(--light-color);
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    font-variant: normal;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-}
-
-/* UTILITY CLASSES */
