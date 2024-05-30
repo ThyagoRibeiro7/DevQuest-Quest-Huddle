@@ -79,16 +79,12 @@
 @media (max-width: 592px){
 
     .main_container{
-        padding: 0 3rem;
+        padding: 0 1rem;
     }
 
 }
 
 @media (max-width: 450px){
-
-    .main_container{
-        padding: 0 1rem;
-    }
 
     .hero_flex_container .hero_info_container h1{
         font-size: 3.3rem;
